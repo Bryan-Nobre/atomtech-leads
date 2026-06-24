@@ -124,7 +124,7 @@ React + TypeScript
 
 A plataforma segue uma arquitetura Zero Trust, onde todas as regras críticas de negócio, permissões, cálculos de comissão e validações de acesso são executadas no backend.
 
-📖 Documentação técnica completa: [Ver documentação técnica](docs/arquitetura.md)
+📖 Documentação técnica completa: [Ver documentação técnica](https://github.com/Bryan-Nobre/atomtech-leads/blob/main/arquitetura.md)
 
 ---
 
